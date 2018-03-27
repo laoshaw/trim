@@ -1,7 +1,9 @@
 {
-  "name": "trim.c",
+  "name": "trim",
+  "description": "trim whitespace",
+  "keywords": [ "trim" ],
   "version": "0.0.1",
-  "repo": "vendethiel/trim.c",
+  "repo": "laoshaw/trim.c",
   "license": "MIT",
   "src": ["trim.c", "trim.h"]
 }
