@@ -3,7 +3,7 @@
   "description": "trim whitespace",
   "keywords": [ "trim" ],
   "version": "master",
-  "repo": "laoshaw/trim.c",
+  "repo": "laoshaw/trim",
   "license": "MIT",
   "src": ["trim.c", "trim.h"]
 }
