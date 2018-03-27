@@ -1,9 +1,9 @@
 {
-  "name": "trimx",
+  "name": "trim",
   "description": "trim whitespace",
   "keywords": [ "trim" ],
   "version": "master",
-  "repo": "laoshaw/trimx",
+  "repo": "laoshaw/trim",
   "license": "MIT",
   "src": ["trim.c", "trim.h"]
 }
