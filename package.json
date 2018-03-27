@@ -1,8 +1,8 @@
 {
-  "name": "trim.c",
+  "name": "trim",
   "description": "trim whitespace",
-  "keywords": [ "trim.c" ],
-  "version": "0.0.1",
+  "keywords": [ "trim" ],
+  "version": "master",
   "repo": "laoshaw/trim.c",
   "license": "MIT",
   "src": ["trim.c", "trim.h"]
